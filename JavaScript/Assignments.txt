@@ -1,0 +1,36 @@
+
+link : https://poojareddy100.github.io/Quiz-site-pooja/
+
+1. Created Quiz Site, in the process of learning
+
+NO Frameworks, HTML, CSS, JS
+
+
+
+link: https://poojareddy100.github.io/myPortfolio/
+
+1. Created Portfolio for myself, in the process of learning
+
+NO Frameworks HTML, CSS, JS
+
+Usage of cdn || importing css from a third party module
+
+
+
+
+What if frameworks like bootstrap are not used??
+What if the responsive ness is implemented via media queries?
+
+link: https://poojareddy100.github.io/anthyodaya/
+
+problems faced in the above site
+
+1. bad rendering
+2. no media queries -- un responsive in phone
+3. bad practice to write evrything from scratch
+
+
+link: https://codepen.io/123ab4c327be0/full/eYRJEOJ
+
+1. css color grading
+
