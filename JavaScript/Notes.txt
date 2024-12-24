@@ -1,0 +1,17 @@
+
+Courses added notes at timestamp:
+
+links: https://www.udemy.com/course/pro-javascript/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_Alpha_Prof_la.EN_cc.India&campaigntype=Search&portfolio=India&language=EN&product=Course&test=&audience=DSA&topic=JavaScript&priority=Alpha&utm_content=deal4584&utm_term=_._ag_160270535425_._ad_696202838322_._kw__._de_c_._dm__._pl__._ti_dsa-1676636482719_._li_1007768_._pd__._&matchtype=&gad_source=1&gclid=CjwKCAiAxKy5BhBbEiwAYiW--8hXlsTmTi2yAiIpbcmC3jJc5iwC3s-cQxOXdcg6QHNH-tf6Pnu9mRoCmu4QAvD_BwE&couponCode=IND21PM
+
+refer repo mastery for Assigments in the above course
+
+
+link: https://www.freecodecamp.org/learn/2022/responsive-web-design/
+final result: https://codepen.io/123ab4c327be0/pen/jOBKaqq
+link: https://www.freecodecamp.org/certification/mpooja9440/responsive-web-design
+
+
+Bootstrap usage working: https://codepen.io/123ab4c327be0/pen/RwgrGmm
+
+
+Chakra UI/// refer

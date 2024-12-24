@@ -1,0 +1,17 @@
+Why is the number and email coming on videos?
+
+Why is intermediate byte code generation not possible?’
+
+Byte code to high level code? | reverse coding?
+
+When there are other languages which are faster than JS, why are we not trusting other browsers with different languages? (does this mean all the current websites do not run on those browsers)
+
+Thanks to Node.js | js can also be used in the backend??
+
+JS is not must | JS needed?
+
+Why are we running node app.js to run a js file? Is it like a js file runs on a node?
+
+Rep lit doubts?
+
+All about codiumAI?
