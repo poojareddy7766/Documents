@@ -1,0 +1,64 @@
+
+Equivalent to npm init in GO
+
+go mod init <module_name>
+
+1. this is used to initialise a module
+2. It creates a new file .mod in current directory
+3. it contains info about the module, dependencies and Go version
+
+
+similar to Nodeman we have 
+
+go install github.com/cosmstrek/air@latest
+
+
+create a file for configuaration
+
+
+If this causes any conflict go for: 
+
+go: downloading github.com/cosmtrek/air v1.61.5
+go: github.com/cosmtrek/air@latest: version constraints conflict:
+        github.com/cosmtrek/air@v1.61.5: parsing go.mod:
+        module declares its path as: github.com/air-verse/air
+                but was required as: github.com/cosmtrek/air
+
+
+
+go install github.com/air-verse/air@latest
+
+go does not have while loop?
+
+go being similar to c -- pointers in code
+
+all about in memory of vs code
+
+
+	///----- All about get request
+    app.Get("/",func(c *fiber.Ctx) error{
+		return c.Status(200).JSON(fiber.Map{"msg": "Start Understanding get request"})
+	})
+
+
+Connecting to external atlas
+
+Know about 
+
+context.Background()??
+
+how will it set the context
+// cancellations? tasks? deadlines // ignore it 
+
+
+
+Lets go for frontEnd
+
+npm create vite@latest . 
+
+npm install
+
+Select the framework and language
+
+
+	 
