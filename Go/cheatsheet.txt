@@ -60,5 +60,4 @@ npm install
 
 Select the framework and language
 
-
-	 
+npm run dev
