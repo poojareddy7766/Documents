@@ -1,0 +1,95 @@
+
+Equivalent to npm init in GO
+
+go mod init <module_name>
+
+1. this is used to initialise a module
+2. It creates a new file .mod in current directory
+3. it contains info about the module, dependencies and Go version
+
+
+similar to Nodeman we have 
+
+go install github.com/cosmstrek/air@latest
+
+
+create a file for configuaration
+
+
+If this causes any conflict go for: 
+
+go: downloading github.com/cosmtrek/air v1.61.5
+go: github.com/cosmtrek/air@latest: version constraints conflict:
+        github.com/cosmtrek/air@v1.61.5: parsing go.mod:
+        module declares its path as: github.com/air-verse/air
+                but was required as: github.com/cosmtrek/air
+
+
+
+go install github.com/air-verse/air@latest
+
+go does not have while loop?
+
+go being similar to c -- pointers in code
+
+all about in memory of vs code
+
+
+	///----- All about get request
+    app.Get("/",func(c *fiber.Ctx) error{
+		return c.Status(200).JSON(fiber.Map{"msg": "Start Understanding get request"})
+	})
+
+
+Connecting to external atlas
+
+Know about 
+
+context.Background()??
+
+how will it set the context
+// cancellations? tasks? deadlines // ignore it 
+
+
+
+Lets go for frontEnd
+
+npm create vite@latest . 
+
+npm install
+
+Select the framework and language
+
+npm run dev
+
+
+chakra-ui: component libraray used for react just to speed up the process
+
+fix the error:
+
+https://github.com/kulshekhar/ts-jest/issues/1095
+
+Still need to fix this
+
+
+know about ten stack-  a react query
+
+
+https://tanstack.com/router/latest/docs/framework/react/overview
+
+Sending request via queryClient to Database
+
+all about mutation hooks
+
+
+MongoServerSelectionError: 80A061F701000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:908:SSL alert number 80
+. It looks like this is a MongoDB Atlas cluster. Please ensure that your Network Access List allows connections from your IP.
+
+refer:
+
+Resources can only be fetched within the same domain. Unless your server accepts cross domain requests it won't work.
+
+CORS middleware for gin , golang.
+https://stackoverflow.com/questions/29418478/go-gin-framework-cors
+
+https://v2.chakra-ui.com/docs/styled-system/gradient
